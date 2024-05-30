@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "6014627653",
+    "firebase_url": "https://chatdemoapp-57cc6-default-rtdb.firebaseio.com",
+    "project_id": "chatdemoapp-57cc6",
+    "storage_bucket": "chatdemoapp-57cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6014627653:android:c750939bfa25721703982c",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDWUIeoliGcLumxcs5UZ-B_woQJAtV3ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
